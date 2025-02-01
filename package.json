@@ -1,0 +1,19 @@
+﻿{ 
+  "name": "com.hermitsworlds.core", 
+  "version": "0.0.1", 
+  "displayName": "Hermit Core", 
+  "description": "General package for utility functionality used everywhere.", 
+  "unity": "2022.3",
+  "changelogUrl": "https://github.com/richardbelovic/HermitCore/commits/main/", 
+  "licensesUrl": "https://github.com/richardbelovic/HermitCore/blob/main/LICENSE", 
+  "dependencies": 
+  {
+  }, 
+  "keywords": [ "core", "general" ], 
+  "author": 
+  { 
+    "name": "Hermit's Worlds", 
+    "email": "thehermitsworlds@gmail.com", 
+    "url": "https://hermitsworlds.itch.io/"
+  }
+} 
